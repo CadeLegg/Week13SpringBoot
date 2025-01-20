@@ -1,0 +1,1 @@
+INSERT INTO employee (employee) VALUES ('');
